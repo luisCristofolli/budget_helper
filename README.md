@@ -1,1 +1,1 @@
-Invalid switch - /n
+Project to help with personal expense tracking.
